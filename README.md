@@ -11,3 +11,7 @@ Up to two receivers can be linked to each transmitter + one [Companion](https://
 - Unlock the power of your clicker by using it to push buttons in [Companion](https://bitfocus.io/companion/).
 
 [Get the latest version](https://github.com/emanueltilly/NetClicker/releases/)
+
+## Screenshots
+![Transmitter](https://i.imgur.com/mNaSaak.png)
+![Receiver](https://i.imgur.com/UuTRUnJ.png)
